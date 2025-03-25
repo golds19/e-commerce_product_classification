@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+kagglehub
+pillow
+torch-summary
+dvc
+dagshub
+mlflow
+dvc-s3
+python-dotenv

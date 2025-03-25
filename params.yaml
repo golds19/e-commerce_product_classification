@@ -1,0 +1,10 @@
+TODO
+data:
+  dataset_path: "path/to/dataset"
+  batch_size: 32
+  num_classes: 10
+  epochs: 50
+  optimizer:
+    type: "adam"
+    params:
+      lr: 0.001
